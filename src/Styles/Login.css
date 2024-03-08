@@ -1,0 +1,30 @@
+.btn {
+    /* width:'150px',
+        padding:'5px',
+        backgroundColor:'green',
+        color:'white',
+        fontWeight:700,
+        borderRadius:'5px',
+        margin:'0 auto' */
+        width: 150px;
+        padding: 10px;
+        background-color:#0e4841;
+        color: #fff;
+        font-weight: 700;
+        border-radius: 10px;
+        border-width: 0;
+        margin: 0 auto;
+}
+
+
+.btn:hover {
+    background-color: black;
+    cursor: pointer;
+    color:white;
+}
+
+input[type="text"],
+input[type="password"] {
+  background-color: #f9f9f9;
+  color: #333;
+}

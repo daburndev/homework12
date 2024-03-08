@@ -1,0 +1,27 @@
+@media (max-width:400px) {
+    .list {
+        display:none;
+    } 
+
+    .navbar {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    /* .left {
+        width:100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .right {
+        display: none;
+        width: 0;
+    }
+
+    .navbtn {
+        display: none;
+        width: 0;
+    } */
+}
